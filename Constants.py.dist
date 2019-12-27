@@ -1,0 +1,7 @@
+from nltk.corpus import stopwords
+
+MAIN_COLLECTION_DIRECTORY = ''
+CLEANED_COLLECTION_DIRECTORY = ''
+INVERTED_INDEX_PATH = ''
+NLTK_WORDS = list(stopwords.words('english'))
+THREADS_COUNT = 1

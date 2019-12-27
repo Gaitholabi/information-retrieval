@@ -1,0 +1,12 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+dill==0.3.1.1
+html5lib==1.0.1
+multiprocess==0.70.9
+nltk==3.4.5
+pathos==0.2.5
+pox==0.2.7
+ppft==1.6.6.1
+six==1.13.0
+soupsieve==1.9.5
+webencodings==0.5.1
